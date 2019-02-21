@@ -1,6 +1,6 @@
 # Repertoire_v0.2
 Projet code entièrement en java destine a permettre a un utilisateur d'administrer son repertoire de contact uniquement avec son terminal 
-                   ---Manuel d’utilisateur---
+
 * Contact *
 A. Attributs
 ->nom : Champ attribue au nom de famille du contact
